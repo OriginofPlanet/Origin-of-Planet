@@ -17,7 +17,7 @@ Origin of Planet Project
 现有成员包括：
 
 * FuYang（创始人，Tweaker，设定师）
-* GinYAi（程序员，设定师）
+GinYAi（程序员，设定师）
 * 中兴安岭（设定师，材质师）
 * 残存（设定师，程序员）
 * 皮皮怪/魔芋豆腐（设定师）
